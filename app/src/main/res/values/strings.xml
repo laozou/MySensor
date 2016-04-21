@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">MySensor</string>
+    <string name="start">开始</string>
+    <string name="time">0.0</string>
+    <string name="score_name">得分：</string>
+    <string name="again">再来一次</string>
+    <string name="quit">退出</string>
+    <string name="result">查看得分</string>
+    <string name="score_text">0</string>
+    <string name="game_rule">在10秒内请使出吃奶的力气来甩动手机吧</string>
+    <string name="text_one">胖友请认真点好吗</string>
+</resources>
